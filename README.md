@@ -5,7 +5,7 @@ This Page is where you can create a issue post and we will keep updates on what 
 Bugs and Issues only and nothing else
 
 Template:
-Please use the following.
-Issues/Bug Title:
-Issue Description:
-Urgant / Non Urgant:
+<br> Please use the following. <br/>
+<br> Issues/Bug Title:<br/>
+<br> Issue Description: <br/>
+<br>Urgant / Non Urgant: <br/>
